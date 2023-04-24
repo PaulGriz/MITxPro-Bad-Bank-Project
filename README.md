@@ -13,7 +13,7 @@
 
 ## Features
 
-1. Global State Managemqent with Zustand
+1. Global State Management with Zustand
 2. Data Persistence with Local Storage
 3. Routing with React Router
 4. Form Validation with Zod
